@@ -1,5 +1,5 @@
 # Snippets file format
-The snippet file format is a file format for storing and retrieving pieces of text (strings).
+The snippet file format is a human-readable file format for storing and retrieving pieces of text (strings).
 
 ## Table of contents
 - [Specification](#format-specification)
@@ -38,7 +38,7 @@ If you implement a parser in a new language, just open a pull request to add the
 - [Rust](https://github.com/jomy10/snippets-rs)
 
 ## Contributing
-If you have improvements for the file format, feel free to open an issue. If you have made a parser, feel free to open a pull request.
+If you have improvements for the file format, feel free to open an issue. If you have made a parser, feel free to open a pull request, adding your parser to the list.
 
 ## License
 The file format is licensed under the [MIT License]((LICENSE).
